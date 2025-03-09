@@ -1,4 +1,5 @@
 # SkinBuddyWeb 관리자
+<br>
 
 ## 📌 서비스 개요  
 **SkinBuddy**는 AI 기술을 활용하여 사용자 맞춤형 피부 진단 및 개선 솔루션을 제공하는 미용 서비스입니다.  
@@ -10,6 +11,38 @@
 - **AI 기반 피부 진단 서비스**: 최신 기술을 활용하여 사용자 맞춤형 피부 분석 및 개선 솔루션 제공  
 
 ---
+<br>
+
+## ⏲️ 개발기간 및 작업 관리
+#### 개발 기간
+
+- 전체 개발 기간 : 2024-04-08 ~ 2024-05-17
+- UI 구현 : 2024-04-08 ~ 2024-04-17
+- 기능 구현 : 2024-04-17 ~ 2024-05-03
+- QA 및 테스트 : 2024-05-06 ~ 2025-05-17
+
+---
+<br>
+
+
+## ⚙️ 개발 환경
+
+### Frontend Stack
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![axios](https://img.shields.io/badge/axios-1.6.8-671DDF?logo=axios&logoColor=white&style=for-the-badge)
+![npm](https://img.shields.io/badge/npm-10.9.1-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+![chart.js](https://img.shields.io/badge/Chart.js-4.4.2-FF6384?logo=chartdotjs&logoColor=white&style=for-the-badge)
+![styled-components](https://img.shields.io/badge/styled--components-6.1.8-DB7093?logo=styled-components&logoColor=white&style=for-the-badge)
+
+### Node.js 버전
+- Node.js 버전: v20.12.0
+
+### 패키지 매니저
+- 사용된 패키지 매니저: npm
+
+---
+<br>
+
 
 ## 📌 서비스 소개  
 ### 인증 및 계정 관리  
@@ -72,33 +105,9 @@
 
 ![ai관리](https://github.com/user-attachments/assets/a9efd3db-c4eb-4fae-9ee7-d3ca6f4bca7a)
 
---- 
-## ⏲️ 개발기간 및 작업 관리
-#### 개발 기간
-
-- 전체 개발 기간 : 2024-04-08 ~ 2024-05-17
-- UI 구현 : 2024-04-08 ~ 2024-04-17
-- 기능 구현 : 2024-04-17 ~ 2024-05-03
-- QA 및 테스트 : 2024-05-06 ~ 2025-05-17
-
 ---
+<br>
 
-## ⚙️ 개발 환경
-
-### Frontend Stack
-![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![axios](https://img.shields.io/badge/axios-1.6.8-671DDF?logo=axios&logoColor=white&style=for-the-badge)
-![npm](https://img.shields.io/badge/npm-10.9.1-CB3837?logo=npm&logoColor=white&style=for-the-badge)
-![chart.js](https://img.shields.io/badge/Chart.js-4.4.2-FF6384?logo=chartdotjs&logoColor=white&style=for-the-badge)
-![styled-components](https://img.shields.io/badge/styled--components-6.1.8-DB7093?logo=styled-components&logoColor=white&style=for-the-badge)
-
-### Node.js 버전
-- Node.js 버전: v20.12.0
-
-### 패키지 매니저
-- 사용된 패키지 매니저: npm
-
----
 
 ## 📂 폴더 구조
 
@@ -118,6 +127,8 @@
 ```
 
 ---
+<br>
+
 
 ## 📌 프로젝트 실행
 
@@ -125,5 +136,6 @@
 
    ```bash
    npm install
+   npm start
    ```
 
